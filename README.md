@@ -1,4 +1,4 @@
-Creating a crypto price tracker involves several components:
+Create a crypto price tracker involves several components:
 
 .Real-time Price Tracking:
 
